@@ -24,8 +24,8 @@
 - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1x7z3xwJSnpW0i6e3FB6UJqms73xJHcvl/view?usp=drive_link)
 - [Pre Security: THM](https://drive.google.com/file/d/1HB2WNrEFndvRJC3j59C2gZwXiBPxAPa2/view?usp=drive_link)
 - [Jr Penetration Tester : THM](https://drive.google.com/file/d/1CT9of14wanWHM6gNbmnKj5ibEsbvqtMX/view?usp=drive_link)
-- [Web Fundamentals : THM](https://drive.google.com/file/d/1CT9of14wanWHM6gNbmnKj5ibEsbvqtMX/view?usp=drive_link)
-- [CompTIA Pentest+ ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Web Fundamentals : THM]()
+- [CompTIA Pentest+ ]()
 - [Agile For Beginners](https://drive.google.com/file/d/1ouzg2m_xu28mne2e0_hGb7S095GFZlPh/view?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
