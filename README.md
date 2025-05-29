@@ -24,18 +24,17 @@
 - [Jr Penetration Tester : THM](https://drive.google.com/file/d/1CT9of14wanWHM6gNbmnKj5ibEsbvqtMX/view?usp=drive_link)
 - [Web Fundamentals : THM](https://drive.google.com/file/d/1CT9of14wanWHM6gNbmnKj5ibEsbvqtMX/view?usp=drive_link)
 - [CompTIA Pentest+ ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Agile For Beginners](https://drive.google.com/file/d/1ouzg2m_xu28mne2e0_hGb7S095GFZlPh/view?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+
+[youtube]: https://www.youtube.com/channel/UCss5RWjMVYpjSBLl_OtTJ6g
+[linkedin]: https://www.linkedin.com/in/khadija-bouyoussef-ba7b95244/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
