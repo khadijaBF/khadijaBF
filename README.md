@@ -2,9 +2,6 @@
   <a href="https://www.linkedin.com/in/khadija-bouyoussef-ba7b95244/">Cybersecurity Student at ESI</a>
 
 <h2>🛡️ CyberSecurirty Projects:</h2>
-- [Active Directory Home Lab] ()
-- [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1x7z3xwJSnpW0i6e3FB6UJqms73xJHcvl/view?usp=drive_lin
-- [Pre Security: THM](https://drive.google.com/file/d/1HB2WNrEFndvRJC3j59C2gZwXiBPxAPa2/view?usp=drive_link)
 
 
 - [Dapp Blockchain](https://drive.google.com/file/d/1x7z3xwJSnpW0i6e3FB6UJqms73xJHcvl/view?usp=drive_link)
