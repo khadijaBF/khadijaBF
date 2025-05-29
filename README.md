@@ -14,6 +14,12 @@
 
 <h2>👨‍💻 Development & DevSecOps Projects: </h2>
 
+- [NutriTruck](https://github.com/HNIDAClassroom/nutritrack-final-khadijaBF)
+- [devsecops-node-deployment](https://github.com/khadijaBF/devsecops-node-deployment)
+
+
+
+
 <h2>📜 Certifications: </h2>
 
 - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/1x7z3xwJSnpW0i6e3FB6UJqms73xJHcvl/view?usp=drive_link)
