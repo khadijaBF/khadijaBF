@@ -3,7 +3,7 @@
 
 <h2>🛡️ CyberSecurirty Projects:</h2>
 
-- [Détection de Trafic Réseau Malveillant par Machine Learning](https://drive.google.com/file/d/1HB2WNrEFndvRJC3j59C2gZwXiBPxAPa2/view?usp=drive_link)
+- [Détection de Trafic Réseau Malveillant par Machine Learning]()
 - [Dapp Blockchain](https://github.com/khadijaBF/Dapp-blockchain)
 - [Active Directory Deploiment]()
 - [Python Security Projects](https://github.com/khadijaBF/SecurityPythonProjects)
