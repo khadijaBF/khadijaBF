@@ -1,5 +1,4 @@
 <h1>Hi, I'm Khadija! </br>
-  <a href="https://www.linkedin.com/in/khadija-bouyoussef-ba7b95244/">Cybersecurity Student at ESI</a>
 
 <h2>🛡️ CyberSecurirty Projects:</h2>
 
