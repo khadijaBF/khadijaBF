@@ -2,7 +2,7 @@
 
 <h2>🛡️ CyberSecurirty Projects:</h2>
 
-- [ ]()
+- [Conception et déploiement d’un SOC open source automatisé pour la détection et la réponse aux incidents ]()
 - [Active Directory Deploiment]()
 - [Dapp Blockchain](https://github.com/khadijaBF/Dapp-blockchain)
 - [Python Security Projects](https://github.com/khadijaBF/SecurityPythonProjects)
